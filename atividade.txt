@@ -1,2 +1,20 @@
+<<<<<<< HEAD
 instrucoes para atividade
+fim da atividade
+=======
+Instrucoes para atividade
+
+########################
+
+Primeiro Passo: Realizar um pull do repositório para sua máquina
+
+Segundo Passo: Faça um branch do repositorio
+
+Terceiro Passo: Adicione no comentarios.txt o seu comentario sobre a aula (Não apague os comentários dos outros alunos)
+
+Quarto Passo: Faça um merge do seu branch
+
+########################
+>>>>>>> f9a066ab165b65e9451eb49d2afa72bee747a950
+
 fim da atividade
