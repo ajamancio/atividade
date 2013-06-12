@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 instrucoes para atividade
-fim da atividade
-=======
-Instrucoes para atividade
+
 
 ########################
 
