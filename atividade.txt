@@ -12,6 +12,7 @@ Terceiro Passo: Adicione no arquivo.txt o seu comentario sobre a aula (Não apag
 
 Quarto Passo: Faça um merge do seu branch
 
+quinto passo: Atualize o repositorio compartilhado
 ########################
 >>>>>>> f9a066ab165b65e9451eb49d2afa72bee747a950
 
