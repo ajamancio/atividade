@@ -1,1 +1,2 @@
 frases:
+Bruno: i love git! i'm git user! :)
