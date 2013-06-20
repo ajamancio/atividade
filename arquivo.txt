@@ -2,3 +2,4 @@ frases:
 Bruno: i love git! i'm git user! :)
 Rhonan: ...
 Juarez: Git e Mercurial sao ambas otimas opcoes de controle de versao distribuido.
+Leticia: Git é essencial. ^^
