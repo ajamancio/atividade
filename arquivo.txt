@@ -4,3 +4,4 @@ Rhonan: ...
 Juarez: Git e Mercurial sao ambas otimas opcoes de controle de versao distribuido.
 Leticia: Git é essencial. ^^
 Paula: O melhor da apresentação foi o Video - Calme criança o SVN não é tão ruim assim - kkkkkkkkkkkkkkkkkkk
+Rodrigo: Git isn't gite
