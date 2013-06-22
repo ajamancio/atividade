@@ -7,3 +7,4 @@ Paula: O melhor da apresentação foi o Video - Calme criança o SVN não é tã
 Rodrigo: Git isn't gite
 suelhy: parabens para as ferramentas de controle de versão
 Maquison: O Git é uma ferramenta fundamental para uma boa GC em um projeto.
+Isso pode Arnaldo?
