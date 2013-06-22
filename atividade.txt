@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+instrucoes para atividade
+
+
+########################
+
+Primeiro Passo: Realizar um pull do repositório para sua máquina
+
+Segundo Passo: Faça um branch do repositorio
+
+Terceiro Passo: Adicione no arquivo.txt o seu comentario interessante sobre o git (Não apague os comentários dos outros alunos)
+
+Quarto Passo: Faça um merge do seu branch
+
+quinto passo: Atualize o repositorio compartilhado
+########################
+>>>>>>> f9a066ab165b65e9451eb49d2afa72bee747a950
+
+fim da atividade
